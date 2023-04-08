@@ -15,6 +15,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.8"
+            android:layout_marginRight="8dp"
             android:drawableStart="@drawable/lupa"
             android:drawablePadding="8dp"
             android:hint="Buscar usuario..."
@@ -25,15 +26,15 @@
             android:id="@+id/cancel_text"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.2"
             android:layout_marginStart="8dp"
+            android:layout_weight="0.2"
             android:clickable="true"
             android:focusable="true"
             android:focusableInTouchMode="true"
             android:text="Cancelar"
             android:textColor="@android:color/holo_blue_dark"
             android:textSize="12sp"
-            android:visibility="gone" />
+            android:visibility="visible" />
 
     </LinearLayout>
 
