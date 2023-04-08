@@ -33,7 +33,7 @@
             android:focusableInTouchMode="true"
             android:text="Cancelar"
             android:textColor="@android:color/holo_blue_dark"
-            android:textSize="12sp"
+            android:textSize="14sp"
             android:visibility="visible" />
 
     </LinearLayout>
